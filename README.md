@@ -11,8 +11,8 @@ Welcome to the Airline Workforce Optimization project! This repository contains 
    - [Recommender System](#recommender-system)
 5. [Results and Insights](#results-and-insights)
 6. [How to Run the Code](#how-to-run-the-code)
-7. [Conclusion](#conclusion)
-8. [Contact](#contact)
+7. [Algorithms](#Algorithms)
+8. [Conclusion](#Conclusion)
 
 ## Project Overview
 
